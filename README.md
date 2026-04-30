@@ -1,4 +1,8 @@
-These folders contain all of the finalized code required to interface and operate the ADALM-PLUTO Rev C SDR.
+These folders contain a portion of the finalized code required to interface and operate the ADALM-PLUTO Rev C SDR.
+
+The remainder of this interfacing code can be found at:
+
+https://github.com/SL-UAV-MQP/pi_C_code
 
 This interface is intended to be performed with a Raspberry Pi 5B running Raspbian Lite 64-bit.
 
